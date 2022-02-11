@@ -20,10 +20,8 @@ Here are some quick things about me:
 - ⚡ Fun fact: ...
 -->
 
-## GitHub Stats
-
-<a href="">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ygcool&show_icons=true&hide_title=true" />
-<!-- wi*quL3fcV -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygcool&langs_count=7&layout=compact&hide_title=true" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygcool&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygcool&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ygcool&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygcool&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ygcool&theme=github)
