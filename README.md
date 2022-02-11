@@ -21,7 +21,7 @@ Here are some quick things about me:
 -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygcool&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygcool&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ygcool&theme=github)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygcool&theme=github) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ygcool&theme=github) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygcool&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ygcool&theme=github)
